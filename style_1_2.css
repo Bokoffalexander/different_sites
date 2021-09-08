@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background: url("background/nature_2.jpg");
+  background-size: 100% 100%;
+}
+
+article {
+margin: 1em, 1em;
+
+width: 5em;
+height: 5em;
+background: url("background/home_4.png");
+background-size: cover;
+text-align: center;
+}
+
+
+th {
+background-color: rgba(179, 245, 66, 0.5);
+}
+
+p {
+background-color: rgba(179, 245, 66, 0.9);
+}
+
+.photo_1 {
+ content: url('img/img_1.jpeg');
+ width: 500px; border: none;
+}
+
+.photo_2 {
+ content: url('img/img_2.jpeg');
+ width: 500px; border: none;
+}
+
+.photo_3 {
+ content: url('img/img_3.jpeg');
+ width: 500px; border: none;
+}
+
+.photo_4 {
+ content: url('img/img_4.jpeg');
+ width: 500px; border: none;
+}
+
+.photo_5 {
+ content: url('img/img_5.jpeg');
+ width: 500px; border: none;
+}
+
+.photo_6 {
+ content: url('img/img_6.jpeg');
+ width: 500px; border: none;
+}
+
+.photo_7 {
+ content: url('img/img_7.jpeg');
+ width: 500px; border: none;
+}
+
