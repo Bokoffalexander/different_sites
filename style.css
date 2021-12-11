@@ -1,0 +1,100 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  background: url("background/building_1.jpg") center no-repeat;
+  background-size: cover;
+}
+
+article {
+margin: 1em, 1em;
+
+width: 5em;
+height: 5em;
+background: url("background/home_4.png");
+background-size: cover;
+text-align: center;
+}
+
+
+div {
+    width: 200px;
+    height: 200px;
+
+    line-height: 150px;
+    text-align: center;
+}
+
+.inner {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+p {
+font-size: 28px;
+}
+
+
+div{
+width: 10em;
+height: 10em;
+text-align: center;
+}
+
+.a1 {
+ background-color: rgba(245, 66, 242, 0.5);
+}
+
+.a2 {
+ background-color: rgba(245, 66, 242, 0.5);
+}
+
+.a3 {
+ background-color: rgba(245, 66, 242, 0.5);
+}
+
+.a4 {
+ background-color: rgba(245, 66, 242, 0.5);
+}
+
+.a5 {
+ background-color: rgba(245, 66, 242, 0.5);
+}
+
+.a6 { 
+ background: url("background/books_phone.jpg");
+ background-size: cover;
+}
+
+.a7 {
+ background: url("background/nature_2.jpg");
+ background-size: cover;
+}
+
+.a8 {
+ background-color: rgba(245, 66, 242, 0.5);
+}
+
+#write {
+font-family: 'helvetica neue', helvetica, sans-serif;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        text-align: center;
+        border: 2px solid rgba(0,0,200,0.6);
+        background: rgba(0,0,200,0.3);
+        color: rgba(0,0,200,0.6);
+        box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+        border-radius: 10px;
+        padding: 3px 10px;
+        display: inline-block;
+        cursor: pointer;
+}
+
+.a9 {
+
+ width: 800px;
+ height: 200px;
+ background: url("background/horse.jpg");
+ background-size: cover;
+}
