@@ -2,7 +2,7 @@ html {
   height: 100%;
   box-sizing: border-box;
   margin: 0;
-  background: url("background/building_1.jpg") center no-repeat;
+  background: url("background/building_1.jpg");
   background-size: cover;
 }
 
