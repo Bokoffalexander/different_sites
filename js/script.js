@@ -11,11 +11,11 @@ async function fetchLastPrice() {
 /////////////////// 
 fetchLastPrice();
 ///////////////////     
-      const para = document.querySelector('#write');
+      let para = document.querySelector('#write');
       para.addEventListener('click', updateName);
 ///////////////////
       function updateName() {
-        const name = prompt('Enter a new name');    
+        let name = prompt('Enter a new name');    
         para.textContent = `Your new name: ${name} and ${d.data[1].Name}`;
       }
 ///////////////////
